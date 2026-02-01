@@ -3,7 +3,7 @@ class Question:
     def __init__(self, text, answer):
         self.text = text
         self.answer = answer
-
+#made by abraham paul sanhith
 
 # ---------- QUIZ BRAIN CLASS ----------
 class QuizBrain:
