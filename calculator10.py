@@ -1,7 +1,7 @@
 # ===============================
 # MEGA SCIENTIFIC CALCULATOR
 # ===============================
-
+##made by abraham paul sanhith
 import math
 
 # -------- BASIC OPERATIONS --------
